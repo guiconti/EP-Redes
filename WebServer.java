@@ -69,15 +69,30 @@ final class HttpRequest implements Runnable {
     // Obter a linha de requisição da mensagem de requisição HTTP.
     String requestLine = br.readLine();
 
-    //  Exibir a linha de requisição.
-    System.out.println();
-    //System.out.println(requestLine);
-
     // Obter e exibir as linhas de cabeçalho.
     String headerLine = null;
+
+	// Pega a data atual
+	Date actualDate = new Date();
+
+	//PrintWriter out = new PrintWriter("log.txt");
+	BufferedWriter out = new BufferedWriter(new FileWriter("log.txt", true));
+
     while ((headerLine = br.readLine()).length() != 0) {
-	    //System.out.println(headerLine);
+
+		try {
+
+			out.write(headerLine + "\n");
+
+		} catch (Exception e) {
+
+			System.out.println("Write Exception");
+
+		}
     }
+
+	// Armazena no log a data da requisição
+	out.write("Data: " + actualDate + "\n");
 
 	// Extrair o nome do arquivo a linha de requisição.
 	StringTokenizer tokens = new StringTokenizer(requestLine);
@@ -94,12 +109,16 @@ final class HttpRequest implements Runnable {
 	// Acrescente um "." de modo que a requisição do arquivo esteja dentro do diretório atual.
 	fileName = "." + fileName;
 
+	// Armazena no log o arquivo requisitado
+	out.write("Arquivo requisitado: " + fileName + "\n");
+
 	// Abrir o arquivo requisitado.
 	FileInputStream fis1 = null;
 	boolean fileExists = true;
 	try {
 		fis1 = new FileInputStream(fileName);
 	} catch (FileNotFoundException e) {
+		fis1 = new FileInputStream("./notfound.html");
 		fileExists = false;
 	}
 
@@ -107,20 +126,24 @@ final class HttpRequest implements Runnable {
 
 	if (fileExists) {
 
-		// Envia o conteudo do arquivo requisitado
-		sendBytes(fis1, os);
+		// Envia o conteúdo do arquivo requisitado
+		int bytesSent = sendBytes(fis1, os);
+
+		// Escreve o tamanho do conteúdo enviado para o usuário no log
+		out.write("Total de bytes enviados: " + bytesSent + "\n\n");
+		out.close();
 
 		// Enviar uma linha em branco para indicar o fim das linhas de cabeçalho.
 		os.writeBytes(CRLF);
 
 	} else {
 
-		entityBody = "<HTML>" +
-			"<HEAD><TITLE>404 Not Found</TITLE></HEAD>" +
-			"<BODY>404 Not Found</BODY></HTML>";
+		// Envia o conteúdo do arquivo requisitado
+		int bytesSent = sendBytes(fis1, os);
 
-		// Enviar a linha de conteudo.
-		os.writeBytes(entityBody);
+		// Escreve o tamanho do conteúdo enviado para o usuário no log
+		out.write("Total de bytes enviados: " + bytesSent + "\n\n");
+		out.close();
 
 		// Enviar uma linha em branco para indicar o fim das linhas de cabeçalho.
 		os.writeBytes(CRLF);
@@ -133,19 +156,25 @@ final class HttpRequest implements Runnable {
 
 }
 
-private static void sendBytes(FileInputStream fis, OutputStream os)
+private static int sendBytes(FileInputStream fis, OutputStream os)
 throws Exception {
 
 	// Construir um buffer de 1K para comportar os bytes no caminho para o socket.
 	byte[] buffer = new byte[1024];
 
     int bytes = 0;
+	int bytesLogSum = 0;
     // Copiar o arquivo requisitado dentro da cadeia de saída do socket.
     while((bytes = fis.read(buffer)) != -1 ) {
 
         os.write(buffer, 0, bytes);
 
+		// Somamos o total de bytes de cada buffer para utilizarmos no nosso log
+		bytesLogSum += bytes;
+
     }
+
+	return bytesLogSum;
 
 }
 
@@ -161,6 +190,10 @@ private static String contentType(String fileName){
 
     if(fileName.endsWith(".jpeg")) {
         return "image/jpeg";
+    }
+
+	if(fileName.endsWith(".txt")) {
+        return "text/html";
     }
 
     return "application/octet-stream";
