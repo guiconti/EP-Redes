@@ -1,8 +1,9 @@
 import java.io.* ;
 import java.net.* ;
 import java.util.* ;
+
 public final class WebServer{ 
-    
+
 	public static void main(String argv[]) throws Exception {
         
         // Numero da porta em que o nosso servidor vai rodar.
@@ -106,6 +107,80 @@ final class HttpRequest implements Runnable {
 	// Print do request
 	System.out.println(requestType + " em " + fileName);
 
+	// Verifica se é um dirétório
+	if (contentType(fileName) == "directory") {
+
+		try {
+
+			// Abro o arquivo
+			BufferedReader brConfig = new BufferedReader(new FileReader("config.txt"));
+
+			// Leio a primeira linha do arquivo
+			String configLine = brConfig.readLine();
+
+			// Tokenizer para dividir a string caso haja mais caracteres
+			StringTokenizer configTokens = new StringTokenizer(configLine);
+
+			// Pego a config
+			String config = configTokens.nextToken();
+
+			// Fecha arquivo de leitura
+			brConfig.close();
+
+			if (config.equals("1")){
+
+				// Caso 1
+				File folder = new File("." + fileName);
+				File[] listOfFiles = folder.listFiles();
+
+				String contentHtml = "<html>\n<body>";
+
+				for (int i = 0; i < listOfFiles.length; i++) {
+
+					if (listOfFiles[i].isFile()) {
+
+						contentHtml = contentHtml + "\n" + "<br/>" + "File " + listOfFiles[i].getName();
+
+						//System.out.println("File " + listOfFiles[i].getName());
+
+					} else if (listOfFiles[i].isDirectory()) {
+
+						contentHtml = contentHtml + "\n" + "<br/>" + "Directory: " + "Directory " + listOfFiles[i].getName(); 
+						//System.out.println("Directory " + listOfFiles[i].getName());
+
+					}
+
+				}
+
+				contentHtml = contentHtml + "\n" + "</body>" + "\n" + "</html>";
+
+				BufferedWriter outHtml = new BufferedWriter(new FileWriter("directory.html", false));
+				outHtml.write(contentHtml);
+				outHtml.close();
+
+				fileName = "/directory.html";
+
+			} else if (config.equals("2")) {
+
+				// Caso 2 exibimos uma mensagem de listagem de diretório
+				// Não disponível
+				fileName = "/forbidden.html";
+				
+			} else {
+
+				// Caso 3 exibimos um index.html
+				fileName = "/index.html";
+
+			}
+
+		} catch (Exception e ){
+
+			System.out.println("Error reading config file.");
+
+		}
+
+	}
+
 	// Acrescente um "." de modo que a requisição do arquivo esteja dentro do diretório atual.
 	fileName = "." + fileName;
 
@@ -115,6 +190,7 @@ final class HttpRequest implements Runnable {
 	// Abrir o arquivo requisitado.
 	FileInputStream fis1 = null;
 	boolean fileExists = true;
+
 	try {
 		fis1 = new FileInputStream(fileName);
 	} catch (FileNotFoundException e) {
@@ -179,6 +255,10 @@ throws Exception {
 }
 
 private static String contentType(String fileName){
+
+	if(!fileName.contains(".")) {
+        return "directory";
+    }
 
     if(fileName.endsWith(".htm") || fileName.endsWith(".html")) {
         return "text/html";

@@ -1,0 +1,6 @@
+3 opcoes
+1 Abre o diretorio lista todo o conteudo do diretório
+2 Pagina de nao autorizado
+3 Pagina index.html default
+
+0

@@ -42,3 +42,1444 @@ Data: Mon Sep 26 18:12:19 BRT 2016
 Arquivo requisitado: ./log.txt
 Total de bytes enviados: 1342
 
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:23:27 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:23:32 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:23:33 BRT 2016
+Arquivo requisitado: ./xpto
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:28:40 BRT 2016
+Arquivo requisitado: ./xpto
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:28:40 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:28:44 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:28:52 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:07 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:09 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:10 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:15 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:24 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:26 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:32 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:29:33 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:30:06 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:30:07 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:30:15 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:30:25 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:30:41 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:30:57 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:06 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:13 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:22 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:23 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:24 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:29 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:39 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:31:52 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:32:27 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:48:38 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:48:44 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:48:46 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:49:56 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:50:00 BRT 2016
+Arquivo requisitado: ./s.html
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:51:03 BRT 2016
+Arquivo requisitado: ./s.html
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:51:08 BRT 2016
+Arquivo requisitado: ./s.html
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:51:09 BRT 2016
+Arquivo requisitado: ./s.s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:51:17 BRT 2016
+Arquivo requisitado: ./s.s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:51:17 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:51:17 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:52:02 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:53:09 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:53:22 BRT 2016
+Arquivo requisitado: ./s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:53:29 BRT 2016
+Arquivo requisitado: ./s.s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:53:29 BRT 2016
+Arquivo requisitado: ./s.s
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:53:40 BRT 2016
+Arquivo requisitado: ./sasdasdasd/asdasd/asdasd/asdas/dasd/asd/asd/asd/as/das/d
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 18:53:45 BRT 2016
+Arquivo requisitado: ./sasdasdasd/asdasd/asdasd/asdas/dasd/asd/asd/asd/as/das/d.gif
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:17:51 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:17:53 BRT 2016
+Arquivo requisitado: ./kaka
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:18:23 BRT 2016
+Arquivo requisitado: ./kaka
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:19:07 BRT 2016
+Arquivo requisitado: ./kaka
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:19:32 BRT 2016
+Arquivo requisitado: ./kaka
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:20:32 BRT 2016
+Arquivo requisitado: ./kaka
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:28:10 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:26 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:26 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:28 BRT 2016
+Arquivo requisitado: ./teste
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:36 BRT 2016
+Arquivo requisitado: ./teste
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:49 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:50 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:29:50 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:34:38 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:36:32 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:36:32 BRT 2016
+Arquivo requisitado: ./teste
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:36:33 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:36:33 BRT 2016
+Arquivo requisitado: ./teste
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:36:33 BRT 2016
+Arquivo requisitado: ./teste
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:13 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 348
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:13 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 435
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:13 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 522
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:53 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 393
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:53 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 393
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:53 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 393
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:56 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:56 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:56 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:37:56 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:03 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:03 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:03 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:51 BRT 2016
+Arquivo requisitado: ./teste/example.jpegss
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:54 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:56 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:57 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:38:59 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:39:01 BRT 2016
+Arquivo requisitado: ./forbidden.html
+Total de bytes enviados: 214
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:39:20 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:39:21 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:39:27 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:39:28 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:39:33 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:42:14 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:42:14 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:42:14 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 87
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:43:03 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 125
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:43:45 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 93
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:54:22 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:54:42 BRT 2016
+Arquivo requisitado: ./
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:54:42 BRT 2016
+Arquivo requisitado: ./teste/
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 19:54:45 BRT 2016
+Arquivo requisitado: ./teste
+Total de bytes enviados: 197
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:10:09 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 95
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:10:17 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 95
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:10:25 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 95
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:10:26 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 414
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:10:27 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 414
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:13:31 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 93
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:01 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 93
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:01 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 412
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:01 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 412
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:34 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 93
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:34 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:35 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:37 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:54 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 93
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:55 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 412
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:14:55 BRT 2016
+Arquivo requisitado: ./directory.html
+Total de bytes enviados: 412
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:15:36 BRT 2016
+Arquivo requisitado: ./forbidden.html
+Total de bytes enviados: 214
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:15:37 BRT 2016
+Arquivo requisitado: ./forbidden.html
+Total de bytes enviados: 214
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:15:37 BRT 2016
+Arquivo requisitado: ./forbidden.html
+Total de bytes enviados: 214
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:15 BRT 2016
+Arquivo requisitado: ./forbidden.html
+Total de bytes enviados: 214
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:15 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:16 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:32 BRT 2016
+Arquivo requisitado: ./forbidden.html
+Total de bytes enviados: 214
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:33 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:33 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:16:34 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:17:29 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:17:30 BRT 2016
+Arquivo requisitado: ./index.html
+Total de bytes enviados: 188
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:18:32 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
+Host: localhost:6789
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cookie: jenkins-timestamper-offset=10800000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Data: Mon Sep 26 20:18:33 BRT 2016
+Arquivo requisitado: ./teste/teste.html
+Total de bytes enviados: 194
+
