@@ -11,6 +11,9 @@ public final class WebServer{
         //Estabelecer o socket de escuta.
 		ServerSocket listenSocket = new ServerSocket(6789);
 
+		//Print no console para indicar que o servidor iniciou
+		System.out.println("Servidor esta online e operando na porta: " + port);
+
         //Process HTTP service requests in an infinite loop
 		while (true) {
 
@@ -68,12 +71,12 @@ final class HttpRequest implements Runnable {
 
     //  Exibir a linha de requisição.
     System.out.println();
-    System.out.println(requestLine);
+    //System.out.println(requestLine);
 
     // Obter e exibir as linhas de cabeçalho.
     String headerLine = null;
     while ((headerLine = br.readLine()).length() != 0) {
-	    System.out.println(headerLine);
+	    //System.out.println(headerLine);
     }
 
 	// Extrair o nome do arquivo a linha de requisição.
@@ -85,6 +88,7 @@ final class HttpRequest implements Runnable {
 	// Pega diretório da requisição
 	String fileName = tokens.nextToken();
 	
+	// Print do request
 	System.out.println(requestType + " em " + fileName);
 
 	// Acrescente um "." de modo que a requisição do arquivo esteja dentro do diretório atual.
